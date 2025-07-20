@@ -1,3 +1,4 @@
-# my-first-project
-# python programming language
-# game project no GUI
+#My Very First Project
+
+Console based Game
+Programming Language : Python
